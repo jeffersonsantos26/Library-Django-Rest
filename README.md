@@ -1,2 +1,2 @@
 # library
-Api python/Django Rest  of books :hourglass:
+Api python/Django Rest  of books
