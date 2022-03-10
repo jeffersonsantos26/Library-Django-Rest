@@ -32,22 +32,22 @@ $  python3 manage.py runserver
 ```
 #
 # Observe the IP and port available and access!
-![example terminal!](../library/img/terminal.png)
+![example terminal!](img/terminal.png)
 
 #
 # Check the access path provided by the root api
-![api root!](../library/img/api_root.png)
+![api root!](img/api_root.png)
 
 #
 # check registered books!
-![api!](../library/img/books.png)
+![api!](img/books.png)
 
 #
 # Register your books !
-![api!](../library/img/registre_book.png)
+![api!](img/registre_book.png)
 
 #
 
 ## To delete, go to http://127.0.0.1:8000/books/[id_book]
 
-![more options!](../library/img/more_options.png)
+![more options!](img/more_options.png)
